@@ -1,0 +1,17 @@
+#logo{
+    margin: 1px 100px 1px 200px;
+    width: 1500px; height: 1500px;
+    
+}
+
+img{
+    margin: 0px 100px 400px 700px;
+}
+
+body{
+    background: url(fondo-blanco.jpg) no-repeat center top; 
+    min-height: 100%;
+    background-size: 100%;
+}
+
+

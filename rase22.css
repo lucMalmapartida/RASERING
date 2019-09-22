@@ -1,0 +1,30 @@
+
+body{
+    background: url(background\ raser\ y\ rassenger.png) no-repeat center top; 
+    min-height: 100%;
+    background-size: 100%;
+}
+
+#asiento{
+    margin: -1000px 50px 0px 1300px;
+    width: 300px; height: 300px;
+
+}
+
+.timon{
+    margin: 300px 800px 90px 350px;
+    width: 300px; height: 300px;
+
+}
+
+
+
+.otrarasi{
+    margin: 200px 8px 9px 700px;
+    width: 500px; height: 250px;
+
+}
+
+
+
+
